@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Investor\'s Friend</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="resources">Resources</string>
+    <string name="value">Value:</string>
+    <string name="earnings_per_share">Earnings Per Share</string>
+    <string name="pe_ratio">PE Ratio</string>
+    <string name="longterm_earnings_growth_rate">Longterm Earnings Growth Rate</string>
+    <string name="_20_year_aaa_corporate_bond_rate">20-year AAA Corporate Bond Rate</string>
+    <string name="minimum_required_rate_of_return">Minimum Required Rate of Return</string>
+    <string name="graham_valuation">Graham Valuation</string>
+    <string name="constant_growth_valuation">Constant Growth Valuation</string>
+</resources>

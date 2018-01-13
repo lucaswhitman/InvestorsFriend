@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+    <item
+        android:id="@+id/nav_landing"
+        android:title="Home" />
+
+    <item android:title="Formulas">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/nav_graham"
+                    android:title="@string/graham_valuation" />
+                <item
+                    android:id="@+id/nav_constant_growth"
+                    android:title="@string/constant_growth_valuation" />
+            </group>
+        </menu>
+    </item>
+    </group>
+</menu>
